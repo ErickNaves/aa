@@ -1,0 +1,7 @@
+{
+    "require": {
+        "pokemon-tcg/pokemon-tcg-sdk-php": "^2.1",
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
+

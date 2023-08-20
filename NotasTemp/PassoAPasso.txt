@@ -1,0 +1,4 @@
+Passo a passo
+
+Arrumar o visual do site:
+	Mostrar as cartas na pag web
